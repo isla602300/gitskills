@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple.
-f u c k !
+f u c k    y o u !
